@@ -1,24 +1,8 @@
-# README
+## README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repo is me working through a book on Rails. It builds an online store. 
 
-Things you may want to cover:
+Using asdf as the version manager. Check out the .tool-versions file to see which versions of Ruby, Yarn. NodeJS, and 
+Sqlite this project is using. 
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Source: [The Pragmatic Programmers](https://pragprog.com/titles/rails6/agile-web-development-with-rails-6/)
